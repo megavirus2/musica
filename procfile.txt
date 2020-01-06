@@ -1,1 +1,0 @@
-worker open JMusicBot-0.2.6.jar
